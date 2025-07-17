@@ -1,3 +1,3 @@
 # NetworkingMegaLab
+<img width="997" height="571" alt="image" src="https://github.com/user-attachments/assets/8100b9b6-ba3d-46f5-83f8-ee9475bd5b9e" />
 
-<img width="974" height="597" alt="image" src="https://github.com/user-attachments/assets/4774c955-de90-4ca4-ad60-1f81fdcf73bf" />
